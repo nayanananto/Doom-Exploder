@@ -1,0 +1,1 @@
+"resume.bmp", "play.bmp", "Highscore.bmp", "Instructions.bmp", "Options.bmp", "Settings.bmp", "Credit.bmp", "Exit.bmp"

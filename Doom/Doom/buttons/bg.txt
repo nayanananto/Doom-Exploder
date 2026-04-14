@@ -1,0 +1,1 @@
+"bgCredit.bmp", "bgHighscore.bmp", "bgInstructions.bmp", "bgmain.bmp", "bgOptions.bmp", "bgSettings.bmp"
